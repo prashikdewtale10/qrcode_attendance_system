@@ -1,0 +1,14 @@
+body{
+    margin:0 100px;
+    font-family: 'Ubuntu', sans-serif;
+   
+}
+    
+.logo,.dept
+{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 0px;
+   size: 50%;    
+}
